@@ -1,0 +1,19 @@
+{
+  "name": "my-electron-app",
+  "version": "0.1.0",
+  "description": "Renomear aquivos com prefixos",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": [],
+  "author": "Caio Gabriel",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^21.1.1"
+  },
+  "dependencies": {
+    "fs": "^0.0.1-security"
+  }
+}
